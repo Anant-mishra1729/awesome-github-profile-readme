@@ -109,6 +109,7 @@
 - [DenverCoder1](https://github.com/DenverCoder1/DenverCoder1)
 - [Hemant Joshi](https://github.com/8bithemant/8bithemant)
 - [Kittinan](https://github.com/kittinan/kittinan)
+- [Anant Mishra](https://github.com/Anant-mishra1729)
 - [Andrew Novac](https://github.com/novatorem/novatorem)
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [Andrew Young](https://github.com/andyruwruw/andyruwruw)
@@ -120,6 +121,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
+- [Anant Mishra](https://github.com/Anant-mishra1729)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
